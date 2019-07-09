@@ -10,7 +10,7 @@ while True:
     repr(output.decode('utf-8'))
     print(output.decode('utf-8'))
     fob = open('/var/www/html/Restricted/index.txt', 'w')  
-    fob.write('Energy Meter:'+ repr(output.decode ('utf-8')) + '')
+    fob.write('Electric Consumption'+ repr(output.decode ('utf-8')) + '')
     fob.close()
     
     
