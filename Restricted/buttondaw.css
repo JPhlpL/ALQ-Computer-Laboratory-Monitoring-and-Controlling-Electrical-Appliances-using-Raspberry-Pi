@@ -1,0 +1,124 @@
+table {border-radius: 50%;}
+ .t1{
+ 	font-family: "Times New Roman";
+  border-radius: 15px 50px 30px;
+  padding: 20px; 
+  
+    background: #808080;
+    color: #003366;
+}
+.t2{
+  border-radius: 15px 50px 30px;
+  padding: 20px; 
+  
+    background:#808080;
+    color: #003366;
+}
+.t3{
+  border-radius: 15px 50px 30px;
+  padding: 20px; 
+  
+    background: #808080;
+    color: #003366;
+}
+.t4{
+  border-radius: 15px 50px 30px;
+  padding: 20px; 
+  
+    background: #808080;
+    color: #003366;
+}
+
+.btn1{
+
+	 display: inline-block;
+ 
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #56626c;
+  border: #262a2d 2px solid;
+  border-radius: 50%;
+  box-shadow: 0 9px #999;
+}
+.btn1:hover {background-color:#A9A9A9}
+
+.btn1:active {
+  background-color:#A9A9A9	;
+  box-shadow: 0 7px #39ff14;
+  transform: translateY(4px);
+}
+
+.btn2{
+display: inline-block;
+ 
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #56626c;
+  border: #262a2d 2px solid;
+  border-radius: 50%;
+  box-shadow: 0 9px #999;
+}
+.btn2:hover {background-color:#A9A9A9}
+
+.btn2:active {
+  background-color:#A9A9A9	;
+  box-shadow: 0 7px #39ff14;
+  transform: translateY(4px);
+}
+
+
+.btn3{
+
+	display: inline-block;
+ 
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #56626c;
+  border: #262a2d 2px solid;
+  border-radius: 50%;
+  box-shadow: 0 9px #999;
+}
+.btn3:hover {background-color:#A9A9A9}
+
+.btn3:active {
+  background-color:#A9A9A9	;
+  box-shadow: 0 7px #39ff14;
+  transform: translateY(4px);
+}
+
+.btn4{
+
+	display: inline-block;
+ 
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #56626c;
+  border: #262a2d 2px solid;
+  border-radius: 50%;
+  box-shadow: 0 9px #999;
+}
+.btn4:hover {background-color:#A9A9A9}
+
+.btn4:active {
+  background-color:#A9A9A9	;
+  box-shadow: 0 7px #39ff14;
+  transform: translateY(4px);
+}
+Chat Conversation End
+Type a message, @name...

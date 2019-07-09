@@ -1,0 +1,7 @@
+.meter{
+	display: inline-block;
+	padding: 1px 1px 1px 1px;
+	color: #A9A9A9;
+	text-shadow: 2px 2px 4px black, 2px 2px 4px black,2px 2px 4px black;
+
+}

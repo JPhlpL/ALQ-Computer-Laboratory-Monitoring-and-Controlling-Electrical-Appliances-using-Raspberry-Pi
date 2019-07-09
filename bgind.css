@@ -1,0 +1,85 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: san-serif;
+	background: url(IMG_20190318_125539.jpg);
+	background-size: center;
+	background-position: center;
+	}
+	
+	table, th, tr{
+		border: 1px solid black;
+	}
+	.logcute{
+		height: 250px;
+		width: 320px;
+		background: darkgrey;
+		color: #fff;
+		top: 50%;
+		left: 50%;
+		position: absolute;
+		box-sizing: border-box;
+		transform: translate(-50%,-50%);
+		padding: 70px 30px;
+		box-shadow: 0 100px 200px rgba(0,0,0,.5);
+	}
+	.logcute p{
+		padding: 0;
+		margin: 0;
+		font-weight: bold;
+	}
+	.logcute input{
+		width: 100%;
+		margin-bottom: 20px;
+		font-weight: bold;
+	}
+	.logcute input[type="password"]
+	{
+		border: none;
+		border-bottom: 1px solid #fff;
+		background: transparent;
+		outline: none;
+		height: 40px;
+		color: #fff;
+		font-size: 16px;
+	}
+	.logcute input[type="submit"]
+	{
+		border: none;
+		outline: none;
+		height: 40px;
+		background: rgba(45,81,163,.5);
+		color: #fff;
+		font-size: 18px;
+		border-radius: 20px;
+	}
+	.logcute input[type="submit"]:hover
+	{
+		cursor: pointer;
+		background: #ffc107;
+		color: #000;
+	}
+	//* AA0004001175*//v 
+	a{
+		text-decoration: none;
+		font-size: 12px;
+		line-height: 20px;
+		color: white;
+	}
+	.tao{
+		width: 110px;
+		height: 110px;
+		border-radius: 0%;
+		position: absolute;
+		top: -50px;
+		left: 100px;
+		color: darkgrey;
+	}
+	h1{
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		font-size: 22px;
+	}
+	
